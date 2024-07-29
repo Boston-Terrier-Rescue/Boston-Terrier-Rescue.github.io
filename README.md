@@ -1,1 +1,1 @@
-# Boston-Terrier-Rescue-HTML
+# Boston-Terrier-Rescue
