@@ -556,6 +556,9 @@
 .home-text09 {
   height: 100%;
 }
+.home-text18 {
+  height: 100%;
+}
 @media(max-width: 991px) {
   .home-top-container {
     height: 460px;

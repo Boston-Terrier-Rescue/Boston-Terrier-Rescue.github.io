@@ -132,4 +132,7 @@
   .header-navbar {
     flex-direction: column;
   }
+  .header-logo {
+    margin-bottom: var(--dl-space-space-unit);
+  }
 }

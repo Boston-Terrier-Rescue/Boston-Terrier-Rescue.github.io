@@ -132,6 +132,9 @@
   .header-navbar1 {
     flex-direction: column;
   }
+  .header-logo3 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
 }
 
 .footer-footer1 {
