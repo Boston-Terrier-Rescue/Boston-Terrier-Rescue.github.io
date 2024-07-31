@@ -160,12 +160,12 @@
   display: flex;
   align-items: center;
   flex-direction: row;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 .footer-container91 {
   display: flex;
   align-items: flex-start;
-  margin-left: 100px;
+  margin-left: 0px;
   flex-direction: column;
 }
 .footer-navlink28 {
